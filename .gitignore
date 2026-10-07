@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+# regenerated simulation output (rebuild with: python -m src.simulate)
+data/processed/regenerated_sessions.csv
